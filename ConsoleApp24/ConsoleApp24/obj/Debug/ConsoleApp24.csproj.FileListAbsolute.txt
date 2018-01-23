@@ -4,3 +4,9 @@ c:\users\sandran\documents\visual studio 2017\Projects\ConsoleApp24\ConsoleApp24
 c:\users\sandran\documents\visual studio 2017\Projects\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.csprojResolveAssemblyReference.cache
 c:\users\sandran\documents\visual studio 2017\Projects\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.exe
 c:\users\sandran\documents\visual studio 2017\Projects\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.pdb
+C:\Users\SandraN\Desktop\Uczelnia\KółkoKrzyżyk\ConsoleApp24\ConsoleApp24\bin\Debug\ConsoleApp24.exe.config
+C:\Users\SandraN\Desktop\Uczelnia\KółkoKrzyżyk\ConsoleApp24\ConsoleApp24\bin\Debug\ConsoleApp24.exe
+C:\Users\SandraN\Desktop\Uczelnia\KółkoKrzyżyk\ConsoleApp24\ConsoleApp24\bin\Debug\ConsoleApp24.pdb
+C:\Users\SandraN\Desktop\Uczelnia\KółkoKrzyżyk\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.csprojResolveAssemblyReference.cache
+C:\Users\SandraN\Desktop\Uczelnia\KółkoKrzyżyk\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.exe
+C:\Users\SandraN\Desktop\Uczelnia\KółkoKrzyżyk\ConsoleApp24\ConsoleApp24\obj\Debug\ConsoleApp24.pdb
