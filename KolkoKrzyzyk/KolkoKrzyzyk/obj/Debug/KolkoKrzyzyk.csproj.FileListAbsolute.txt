@@ -1,0 +1,28 @@
+c:\users\sandran\documents\visual studio 2017\Projects\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\KolkoKrzyzyk.csprojResolveAssemblyReference.cache
+c:\users\sandran\documents\visual studio 2017\Projects\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\KolkoKrzyzyk.Properties.Resources.resources
+c:\users\sandran\documents\visual studio 2017\Projects\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\KolkoKrzyzyk.csproj.GenerateResource.Cache
+c:\users\sandran\documents\visual studio 2017\Projects\KolkoKrzyzyk\KolkoKrzyzyk\bin\Debug\KolkoKrzyzyk.exe.config
+c:\users\sandran\documents\visual studio 2017\Projects\KolkoKrzyzyk\KolkoKrzyzyk\bin\Debug\KolkoKrzyzyk.exe
+c:\users\sandran\documents\visual studio 2017\Projects\KolkoKrzyzyk\KolkoKrzyzyk\bin\Debug\KolkoKrzyzyk.pdb
+c:\users\sandran\documents\visual studio 2017\Projects\KolkoKrzyzyk\KolkoKrzyzyk\bin\Debug\OxyPlot.dll
+c:\users\sandran\documents\visual studio 2017\Projects\KolkoKrzyzyk\KolkoKrzyzyk\bin\Debug\OxyPlot.WindowsForms.dll
+c:\users\sandran\documents\visual studio 2017\Projects\KolkoKrzyzyk\KolkoKrzyzyk\bin\Debug\OxyPlot.pdb
+c:\users\sandran\documents\visual studio 2017\Projects\KolkoKrzyzyk\KolkoKrzyzyk\bin\Debug\OxyPlot.xml
+c:\users\sandran\documents\visual studio 2017\Projects\KolkoKrzyzyk\KolkoKrzyzyk\bin\Debug\OxyPlot.WindowsForms.pdb
+c:\users\sandran\documents\visual studio 2017\Projects\KolkoKrzyzyk\KolkoKrzyzyk\bin\Debug\OxyPlot.WindowsForms.xml
+c:\users\sandran\documents\visual studio 2017\Projects\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\KolkoKrzyzyk.exe
+c:\users\sandran\documents\visual studio 2017\Projects\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\KolkoKrzyzyk.pdb
+C:\Users\SandraN\Desktop\Uczelnia\KółkoKrzyżyk\KolkoKrzyzyk\KolkoKrzyzyk\bin\Debug\KolkoKrzyzyk.exe.config
+C:\Users\SandraN\Desktop\Uczelnia\KółkoKrzyżyk\KolkoKrzyzyk\KolkoKrzyzyk\bin\Debug\KolkoKrzyzyk.exe
+C:\Users\SandraN\Desktop\Uczelnia\KółkoKrzyżyk\KolkoKrzyzyk\KolkoKrzyzyk\bin\Debug\KolkoKrzyzyk.pdb
+C:\Users\SandraN\Desktop\Uczelnia\KółkoKrzyżyk\KolkoKrzyzyk\KolkoKrzyzyk\bin\Debug\OxyPlot.dll
+C:\Users\SandraN\Desktop\Uczelnia\KółkoKrzyżyk\KolkoKrzyzyk\KolkoKrzyzyk\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\SandraN\Desktop\Uczelnia\KółkoKrzyżyk\KolkoKrzyzyk\KolkoKrzyzyk\bin\Debug\OxyPlot.pdb
+C:\Users\SandraN\Desktop\Uczelnia\KółkoKrzyżyk\KolkoKrzyzyk\KolkoKrzyzyk\bin\Debug\OxyPlot.xml
+C:\Users\SandraN\Desktop\Uczelnia\KółkoKrzyżyk\KolkoKrzyzyk\KolkoKrzyzyk\bin\Debug\OxyPlot.WindowsForms.pdb
+C:\Users\SandraN\Desktop\Uczelnia\KółkoKrzyżyk\KolkoKrzyzyk\KolkoKrzyzyk\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\SandraN\Desktop\Uczelnia\KółkoKrzyżyk\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\KolkoKrzyzyk.csprojResolveAssemblyReference.cache
+C:\Users\SandraN\Desktop\Uczelnia\KółkoKrzyżyk\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\KolkoKrzyzyk.Properties.Resources.resources
+C:\Users\SandraN\Desktop\Uczelnia\KółkoKrzyżyk\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\KolkoKrzyzyk.csproj.GenerateResource.Cache
+C:\Users\SandraN\Desktop\Uczelnia\KółkoKrzyżyk\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\KolkoKrzyzyk.exe
+C:\Users\SandraN\Desktop\Uczelnia\KółkoKrzyżyk\KolkoKrzyzyk\KolkoKrzyzyk\obj\Debug\KolkoKrzyzyk.pdb
